@@ -85,9 +85,3 @@ Saliency maps were used to interpret the model's decision-making process. These 
 
 ---
 
-## Usage
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/DYL-Leaf.git
-   cd DYL-Leaf
