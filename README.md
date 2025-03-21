@@ -1,4 +1,4 @@
-#Distilled-YOLOv11n-Leaf (DYL-Leaf) for Plant Leaf Disease Detection
+# Distilled-YOLOv11n-Leaf (DYL-Leaf) for Plant Leaf Disease Detection
 
 ## Overview
 This repository contains the implementation of **DYL-Leaf (Distilled-YOLOv11n-Leaf)**, a lightweight and efficient model for detecting plant leaf diseases. The model is based on **YOLOv11n** and leverages **Knowledge Distillation (KD)** to achieve high performance with significantly fewer parameters compared to traditional models. The model is designed to detect 13 classes of potato, rice, and tomato leaf diseases from the **PlantVillage dataset**.
