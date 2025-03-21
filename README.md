@@ -53,6 +53,11 @@ The **YOLOv11n** architecture consists of three main modules:
 1. **Backbone**: Responsible for feature extraction using convolutional layers and the **C3k2** block.
 2. **Neck**: Enhances feature representations using **C2PSA** (Cross Stage Partial with Spatial Attention) and **SPPF** (Spatial Pyramid Pooling-Fast) blocks.
 3. **Head**: Performs final object classification and localization at multiple scales.
+**The Architecture of the proposed student model:**
+
+
+![Figure 5](https://github.com/user-attachments/assets/39d547bb-890a-4733-8190-88cb1d5c9430)
+
 
 ### 3. **Knowledge Distillation (KD)**
 - The teacher model (**YOLOv11n**) is trained first.
